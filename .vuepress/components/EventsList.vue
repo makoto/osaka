@@ -119,7 +119,6 @@ export default {
         }
       })
       // Remove nulls
-      console.log({events})
       this.tbds = events.filter(event => {  return event && event.day == 0} )
       events = events.filter(event => {  return event && event.day > 0 } )
       // Sort by date
@@ -204,7 +203,6 @@ export default {
 }
 
 function setEventDay (date) {
-  console.log('setEventDay', date)
   let result
   if(date){
     let day = new Date(date)
