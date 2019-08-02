@@ -73,6 +73,15 @@
           <Badge v-if="event.frontmatter.featured" slot="after" :text="'TOP'"/>
           </DateTime>
         </div>
+        <h2>Under planning</h2>
+        <div v-for="event in tbds"" >
+          <h2>
+            <a :href="$withBase(event.path)">{{ event.frontmatter.name }}</a>
+          </h2>
+
+          <!-- Event's description -->
+          <p>{{ event.frontmatter.description }}</p>
+        </div>
       </div>
     </div>
   </div>
@@ -90,6 +99,7 @@ export default {
     descending: false,
     categories: [],
     events: [],
+    tbds: [],
     days: [],
     filtering: false,
     // This is calculated from the transition time of the .wrapper el
@@ -103,12 +113,15 @@ export default {
           let category = capitalizeWord(event.frontmatter.category)
           event.frontmatter.category = category
           this.setFilter(category)
+          console.log('event.frontmatter.date', event.frontmatter,  event.frontmatter.date)
           event.day = setEventDay(event.frontmatter.date)
           return event
         }
       })
       // Remove nulls
-      events = events.filter(event => event)
+      console.log({events})
+      this.tbds = events.filter(event => {  return event && event.day == 0} )
+      events = events.filter(event => {  return event && event.day > 0 } )
       // Sort by date
       events = events.sort((a, b) => a.day - b.day)
       this.events = events
@@ -191,8 +204,16 @@ export default {
 }
 
 function setEventDay (date) {
-  let day = new Date(date)
-  return day.getUTCDay()
+  console.log('setEventDay', date)
+  let result
+  if(date){
+    let day = new Date(date)
+    result = day.getUTCDay()
+  }else{
+    result = 0
+  }
+  console.log({result})
+  return result
 }
 
 function addDays (date, days) {
