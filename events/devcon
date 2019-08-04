@@ -87,4 +87,12 @@ category: conference
 # Linebreaks are ignored, but they _must_ start with two spaces.
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
-# Add or remove speakers as ne
+# Add or remove speakers as needed, but remember the hyphen before each entry.
+speakers:
+
+### DON'T MAKE CHANGES BELOW THIS LINE! ###
+---
+<!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
+
+<Event-Content/>
+
