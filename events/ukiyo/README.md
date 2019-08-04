@@ -39,8 +39,8 @@ name: "Ukiyo conference"
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -  "Bringing together perspectives and practitioners from the international development & humanitarian sectors to Devcon and EVOLVING the blockchain for social impact narrative through meaningful workshops on use cases, data, privacy and web3, the role of civil society, and stronger feedback loops with the developer community."  
-  -
-    "Secondary description"
+  -  "A one day event to understand the attributes of Web3 technology, practical use cases, research presentations, and workshops that culminate at Ethereum Developers Conference (Devcon) and beyond for stronger feedback loops between end users and the developer community."
+    -  "For development workers, the humanitarian sector, not-for-profits, social science researchers, product managers and technologists. This not for profit event takes place in the lead up to Ethereum Developers Conference (Devcon) in Osaka."
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -52,9 +52,9 @@ endDate: 2019-10-07
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '8:45'
 # Time when the event ends. Can be left empty.
-endTime: '24:00'
+endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://www.ukiyoconference.com
