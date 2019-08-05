@@ -73,15 +73,17 @@
           <Badge v-if="event.frontmatter.featured" slot="after" :text="'TOP'"/>
           </DateTime>
         </div>
-        <h2>Under planning</h2>
-        <div v-for="event in tbds"" >
-          <h2>
-            <a :href="$withBase(event.path)">{{ event.frontmatter.name }}</a>
-          </h2>
+      </div>
+    </div>
+    <div ref="wrapper" class="wrapper" :class="{ filtering }">
+      <h2>Under planning</h2>
+      <div v-for="event in tbds"" >
+        <h2>
+          <a :href="$withBase(event.path)">{{ event.frontmatter.name }}</a>
+        </h2>
 
-          <!-- Event's description -->
-          <p>{{ event.frontmatter.description }}</p>
-        </div>
+        <!-- Event's description -->
+        <p>{{ event.frontmatter.description }}</p>
       </div>
     </div>
   </div>
