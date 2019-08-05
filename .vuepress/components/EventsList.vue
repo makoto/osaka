@@ -211,7 +211,6 @@ function setEventDay (date) {
   }else{
     result = -1
   }
-  console.log({result})
   return result
 }
 
