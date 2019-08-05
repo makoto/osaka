@@ -22,7 +22,7 @@ title: "Dream DAO Party - DAICO Edition"
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: "TBD"
+description: "Hosted by Aragon community"
 
 
 
@@ -39,7 +39,7 @@ name: "Dream DAO Party - DAICO Edition"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "TBD"
+  -  "Hosted by Aragon community"
 
 
 # The date should be in the format year-month-day (ISO 8601).
