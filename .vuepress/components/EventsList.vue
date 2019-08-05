@@ -115,14 +115,13 @@ export default {
           let category = capitalizeWord(event.frontmatter.category)
           event.frontmatter.category = category
           this.setFilter(category)
-          console.log('event.frontmatter.date', event.frontmatter,  event.frontmatter.date)
           event.day = setEventDay(event.frontmatter.date)
           return event
         }
       })
       // Remove nulls
-      this.tbds = events.filter(event => {  return event && event.day == 0} )
-      events = events.filter(event => {  return event && event.day > 0 } )
+      this.tbds = events.filter(event => {  return event && event.day == -1} )
+      events = events.filter(event => {  return event && event.day >= 0 } )
       // Sort by date
       events = events.sort((a, b) => a.day - b.day)
       this.events = events
@@ -210,7 +209,7 @@ function setEventDay (date) {
     let day = new Date(date)
     result = day.getUTCDay()
   }else{
-    result = 0
+    result = -1
   }
   console.log({result})
   return result

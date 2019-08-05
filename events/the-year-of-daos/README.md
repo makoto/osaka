@@ -22,7 +22,7 @@ title: "The year of DAOs"
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: "Now that all the major DAO frameworks (Aragon, Moloch, DaoStack, and Colony.io) are on mainnet, we want to celebrate the success of the DAOs"
+description: "Now that all the major DAO frameworks (Aragon, Moloch, DaoStack, and Colony.io) are on mainnet, we want to celebrate the success of the many DAOs"
 
 
 
@@ -39,7 +39,7 @@ name: "The year of DAOs"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "Now that all the major DAO frameworks (Aragon, Moloch, DaoStack, and Colony.io) are on mainnet, we want to celebrate the success of the DAOs by having an evening session inviting they key members of each DAO and talk about their projects as well as how we can collaborate to strengthen the DAO communities. "
+  -  "Now that all the major DAO frameworks (Aragon, Moloch, DaoStack, and Colony.io) are on mainnet, we want to celebrate the success of the many DAOs by having an evening session inviting they key members of each DAO and talk about their projects as well as how we can collaborate to strengthen the DAO communities. "
   -  
     'Speakers come from:'
   - list:  
