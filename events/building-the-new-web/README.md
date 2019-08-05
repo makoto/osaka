@@ -38,7 +38,7 @@ name: "Building The New Web - Osaka edition"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "Proudly co-sponsored by Fortmatic (https://fortmatic.com): Build Web3 dapps without extensions or downloads. An alternative to Metamask."  
+  -  "Proudly co-sponsored by [Fortmatic](https://fortmatic.com): Build Web3 dapps without extensions or downloads. An alternative to Metamask."  
   -
     "Building the new web. Osaka edition."
   -
