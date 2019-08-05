@@ -1,4 +1,4 @@
-+---
+---
 ####################
 ### INSTRUCTIONS ###
 ####################
@@ -17,12 +17,12 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: "Ukiyo conference"
+title: "Devcon 5"
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: 
+description: "Devcon is an annual gathering held by the Ethereum Foundation. For new explorers of the Ethereum space, Devcon is an intensive introduction to new worlds of thought. For those already embedded it is a family reunion, and a source of energy and creativity."
 
 
 #####################
@@ -30,7 +30,7 @@ description:
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: "Devcon5"
+name: "Devcon 5"
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -38,9 +38,9 @@ name: "Devcon5"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "Bringing together perspectives and practitioners from the international development & humanitarian sectors to Devcon and EVOLVING the blockchain for social impact narrative through meaningful workshops on use cases, data, privacy and web3, the role of civil society, and stronger feedback loops with the developer community."  
-  -
-    "Secondary description"
+  - "Devcon is the Ethereum conference for developers,
+researchers, thinkers, and makers"
+  -  "Devcon is an annual gathering held by the Ethereum Foundation. For new explorers of the Ethereum space, Devcon is an intensive introduction to new worlds of thought. For those already embedded it is a family reunion, and a source of energy and creativity."
     
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -52,9 +52,9 @@ endDate: 2019-10-11
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '09:00'
 # Time when the event ends. Can be left empty.
-endTime: '24:00'
+endTime: '17:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://devcon.org/
@@ -64,11 +64,11 @@ tickets: https://devcon.org/
 price: '$980'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: ATC HAll
+venue: "ATC HAll"
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address:ATC Hall 2 Chome-1-10 Nankokita,Suminoe Ward Osaka,Japan
+address: "ATC Hall 2 Chome-1-10 Nankokita,Suminoe Ward Osaka,Japan"
 
 # The category of the event. Valid options:
 # - conference
@@ -78,7 +78,6 @@ address:ATC Hall 2 Chome-1-10 Nankokita,Suminoe Ward Osaka,Japan
 # - party
 # Use _only_ one, and don't capitalize.
 category: conference
-
 
 #################
 ### SPEAKERS ####
