@@ -52,9 +52,9 @@ endDate: 2019-10-11
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: '09:00'
 # Time when the event ends. Can be left empty.
-endTime: '24:00'
+endTime: '17:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://devcon.org/
