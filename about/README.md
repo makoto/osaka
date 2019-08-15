@@ -20,7 +20,7 @@ Hi, we are Osaka Blockchain Week team, our members are from Kickback (No "no-sho
 
 ### What is the event scope of Osaka Blockchain Week calendar?
 
-Our event listing scopes are those held in Kinki region (accessable distance from Osakea) before, after and during Devcon 5.
+Our event listing scopes are those held in Kinki region (accessable distance from Osaka) before, after and during Devcon 5.
 
 ### Do I have to use Kickback to be added into the calendar?
 
