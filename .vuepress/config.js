@@ -24,6 +24,10 @@ module.exports = {
         link: 'https://t.me/joinchat/IzDHHxeJvuuFH78uXTf4HA'
       },
       {
+        text: 'Suggest an Event',
+        link: 'https://docs.google.com/spreadsheets/d/1D0eVhODW6Xp27R235uYg1jZjR3jGQjo_3RBR2RUjQDU/edit'
+      },
+      {
         text: 'Submit an Event',
         link: 'https://forms.gle/WzTbzNfPt19PP6768'
       }
