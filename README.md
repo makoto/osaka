@@ -40,12 +40,19 @@ footer:
 
 <hr /><br />
 
-Blockchain Week initiatives are happening all over the world whenever
-there is a large gathering of blockchain and cryptocurrencies enthusiasts 
-around. The Osaka Blockchain Week is no different, it's just a bit longer.
-This is an voluntary initiative which was formed around the Ethereum Devcon 5 
-and which will provide an overview and support for all the blockchain 
-technology related events happening in Osaka between Oct 8. and Oct 11. 2018.
+Please register your event to add it to the calendar.
+Please avoid overlap with events that have a similar target audience.
+
+<div class="cta-container">
+<a href="https://forms.gle/WzTbzNfPt19PP6768" target="_blank" role="button"  class="cta">Submit an Event</a>
+</div>
+
+Have an idea? Looking for partners? Have something to offer?
+Use the ideation spreadsheet for collaboration on initiatives.
+
+<div class="cta-container">
+<a href="https://docs.google.com/spreadsheets/d/1D0eVhODW6Xp27R235uYg1jZjR3jGQjo_3RBR2RUjQDU/edit" target="_blank" class="cta">Suggest an Event</a>
+</div>
 
 Feel free to reach out via our [Telegram channel](https://t.me/joinchat/IzDHHxeJvuuFH78uXTf4HA) if you have any questions.
 <br />

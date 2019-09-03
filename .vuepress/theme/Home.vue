@@ -16,7 +16,6 @@
     </div>
     <div class="home_about">
       <div class="home-wrap">
-        <h2 class="home_about-title"><b>About</b> Osaka Blockchain Week</h2>
         <Content custom/>
       </div>
     </div>
@@ -70,6 +69,15 @@ export default {
 
 <style lang="stylus">
 @import './styles/config.styl'
+
+.cta-container
+  text-align: center;
+  height: 5em;
+  margin-top: 4em;
+
+a.cta
+  background-color:white;
+  padding: 1em;
 
 .home
   // padding $navbarHeight 2rem 0
