@@ -40,19 +40,18 @@ footer:
 
 <hr /><br />
 
-Please register your event to add it to the calendar.
-Please avoid overlap with events that have a similar target audience.
+Feel free to register your event to add it to the calendar.
 
 <div class="cta-container">
 <a href="https://forms.gle/WzTbzNfPt19PP6768" target="_blank" role="button"  class="cta">Submit an Event</a>
 </div>
 
-Have an idea? Looking for partners? Have something to offer?
-Use the ideation spreadsheet for collaboration on initiatives.
+Have an idea? Looking for partners? You can use the ideation spreadsheet for collaboration on initiatives.
 
 <div class="cta-container">
 <a href="https://docs.google.com/spreadsheets/d/1D0eVhODW6Xp27R235uYg1jZjR3jGQjo_3RBR2RUjQDU/edit" target="_blank" class="cta">Suggest an Event</a>
 </div>
 
-Feel free to reach out via our [Telegram channel](https://t.me/joinchat/IzDHHxeJvuuFH78uXTf4HA) if you have any questions.
+Feel free to reach out via our [Telegram channel](https://t.me/joinchat/IzDHHxeJvuuFH78uXTf4HA) for discussion and inquiry.
+
 <br />
