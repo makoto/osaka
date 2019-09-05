@@ -59,15 +59,15 @@ synopsis:
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date:
+date: 2019-10-06
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate:
+endDate: 2019-10-06
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '10:00'
+time: '14:00'
 # Time when the event ends. Can be left empty.
 endTime: '18:00'
 
