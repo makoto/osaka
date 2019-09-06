@@ -4,7 +4,7 @@ title: Orochi DAO
 
 # Orochi DAO - event sponsorship as a DAO
 
-## What is Orochi DAO?
+## What is [Orochi DAO](https://orochi.kickback.events)?
 
 <p class="companies">
     <a href="https://orochi.kickback.events">
