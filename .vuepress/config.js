@@ -12,6 +12,10 @@ module.exports = {
   themeConfig: {
     nav: [
       {
+        text: 'DAO it!',
+        link: '/dao/'
+      },
+      {
         text: 'Events',
         link: '/events/'
       },
