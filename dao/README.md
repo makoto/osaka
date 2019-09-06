@@ -47,7 +47,7 @@ That said, we would like to welcome membership of people or organisations who ha
 
 The more the total sum of sponsorship fund is collected into the DAO, the more chance that the sponsorship will be spent into other events.
 
-If you are not happy with a decision of the sponsorship usage, then you will have a period (to be decided but planning to be between 3-7 days) where you can rage quit and withdraw your contributions, before they are applied to the proposal.
+If you are not happy with a decision of the sponsorship usage, then you will have one day grace period (after two days voting period) where you can rage quit and withdraw your contributions, before they are applied to the proposal.
 
 ## What is Orochi?
 “[Yamata no Orochi](https://en.wikipedia.org/wiki/Yamata_no_Orochi)",  (八岐大蛇 (ヤマタノオロチ), "8-branched giant snake") or Orochi (大蛇), is a legendary 8-headed and 8-tailed dragon. It appeared in two Japanese mythology texts written in AD 720.
