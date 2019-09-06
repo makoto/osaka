@@ -16,13 +16,13 @@ title: Orochi DAO
 There will be many side events during DevCon5 and many companies will be sponsoring various side events to reach out to the participants. However, sponsoring the individual event will have limited marketing impact. Kickback, the organiser of “[The year of DAOs](/events/the-year-of-daos/)” event would like to propose “Orochi DAO”, a special purpose DAO to coordinate sponsorship allocation collaboratively.
 
 Orochi DAO is a DAO which manages event sponsorship. It is a fork of [Moloch DAO](https://molochdao.com) which was created to fund ETH 2.0 projects and famously collected over ETH 7000 from well known Ethereum community members.
- The sponsoring companies (= Donors in Moloch term) and the event organisers (= Grantees in Moloch term) all join the DAO based on the proposal from the existing members (= Guild members in Moloch term) . The DAO members will collaboratively decide which events to sponsor for how much.
+ The sponsoring companies (= Donors in Moloch term) and the event organisers (= Grantees in Moloch term) all join the DAO based on the proposal from the existing members (= Guild members in Moloch term) . The DAO members will collaboratively decide which events to sponsor and for how much.
 
-By using “Rage quit” feature of Moloch DAO, the sponsoring companies can withdraw their sponsorship when they do not agree with the voting results. With this simple game theory, we are experimenting to see if each event organiser and sponsor can work collaboratively to have maximum PR impact as a whole. 
+By using “Rage quit” feature of Moloch DAO, the sponsoring companies can withdraw their sponsorship if they do not agree with the voting results. With this simple game theory, we are experimenting to see if each event organiser and sponsor can work collaboratively to have maximum PR impact as a whole. 
 
 ## What is “The Year of DAOs”?
 
-We are aiming to invite speakers from well known DAO framework creators and the actual users of these frameworks so that we will learn the practical use of DAOs.
+We are aiming to invite speakers from well-known DAO frameworks and the actual users of these frameworks to share their practical use-cases of DAOs.
 
 We are currently in the process of building up the program at our [public forum page](https://forum.metacartel.org/t/orochidao-call-for-ideas-of-the-year-of-daos-event-content/179/).
 
@@ -30,24 +30,24 @@ Please check “[our event calendar page](/events/the-year-of-daos/)” for more
 
 ## Eligibility
 
-To apply to the guild member as a sponsor, the proposal must be submitted by [the existing guild members](https://daohaus.club/dao/0x8487dcc6f4b28b911e22a8657ebb16427d4cf5c0)(To see member profiles, you need to connect via dapp wallets such as Metamask). The minimum participation contribution is $500 although the decisions will be made by the DAO voting hence it may vary case by case. The contribution will be made [in DAI](https://makerdao.com/en/dai/).
+To apply to the DAO as a sponsor, the proposal must be submitted by [the existing guild members](https://daohaus.club/dao/0x8487dcc6f4b28b911e22a8657ebb16427d4cf5c0)(To see member profiles, you need to connect via dapp wallets such as Metamask). The minimum sponsorship is $500, although final decisions will be made by the DAO members' voting, hence it may vary case by case. The contribution will be made [in DAI](https://makerdao.com/en/dai/).
 
 ## What do I get as a sponsor?
 
-By joining the guild membership, you will gain the following benefits.
+By joining the DAO as a sponsor, you will gain the following benefits.
 
-- You will be invited into member only forum and have voting powers to decide what talks to be at the event. Your logo will also be on the “The year of DAOs” page.
-- Once the total sum of the sponsorship exceeds the cost of organising “The year of DAOs”, then you can participate in deciding and nominating what other projects Orochi DAO will host with what kind of benefit.
+- You will be invited into the member only forum and have voting power to decide what talks will be at the event. Your logo will also be on the “The year of DAOs” page.
+- Once the total sum of the sponsorship exceeds the cost of organising “The year of DAOs”, then you can participate in deciding and nominating what other projects Orochi DAO will host and with what kind of benefits.
 
 
 ## How do you spend my sponsorship contributions.
 
 In principle, it will be decided via votes among guild members.
-Having said, we would like to welcome membership of people or organisations who have a common goal and passion towards the success of many DAOs and happy to contribute part or all of the sponsorship.
+That said, we would like to welcome membership of people or organisations who have a common goal and passion towards the success of many DAOs and happy to contribute part or all of the sponsorship.
 
 The more the total sum of sponsorship fund is collected into the DAO, the more chance that the sponsorship will be spent into other events.
 
-When you are not happy with the decision of the sponsorship usage, then you will have a period (to be decided but planning to be between 3-7 days) where you rage quit and withdraw your contributions.
+If you are not happy with a decision of the sponsorship usage, then you will have a period (to be decided but planning to be between 3-7 days) where you can rage quit and withdraw your contributions, before they are applied to the proposal.
 
 ## What is Orochi?
 “[Yamata no Orochi](https://en.wikipedia.org/wiki/Yamata_no_Orochi)",  (八岐大蛇 (ヤマタノオロチ), "8-branched giant snake") or Orochi (大蛇), is a legendary 8-headed and 8-tailed dragon. It appeared in two Japanese mythology texts written in AD 720.
