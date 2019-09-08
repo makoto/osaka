@@ -50,7 +50,7 @@ synopsis:
   - "Max 100 ppl"
 
   - "The registration page to be announced soon."
-  - "This event is currently under planning by Osaka Blockchain Week. [Join our telegram channel](https://t.me/joinchat/IzDHHxeJvuuFH78uXTf4HA) to find out more 123"
+  - "This event is currently under planning by Osaka Blockchain Week. [Join our telegram channel](https://t.me/joinchat/IzDHHxeJvuuFH78uXTf4HA) to find out more"
   - "[日本語案内]"
   - "DAO（Decentralised Autonomous Organisation, 自律分散型組織）は特定の管理者や主体を持たない分散型の組織で、組織内の階層構造もなく、構成員一人一人によって自律的に運営されているのが特徴です。イーサリアムコミュティ内では2016年に集団投資スキームをDAOで管理するTheDAOが150億円相当を集めたあと、ハッキングにあった事件が有名です。TheDAOの悲劇から3年経った今、イーサリアムコミュニティは過去の教訓を元によりセキュアなシステムを作り上げてきました。イーサリアムスマートコントラクト開発者が簡単にDAOシステムを導入するための様々なツールを開発するAragonとDAOstack。イーサリアム開発の助成金を募るために作られ1.5億ドル以上を各界の有力者たちから調達することに成功したMolochDAO。シェアリングエコノミーを実現することを目的に作られたColony などはすでに実用可能な段階になっています。"
   - "今回のイベントではそれらのフレームワーク開発企業をスピーカーとして招待するとともに、実際にこれらのDAOを使っている人達の生の声を聞くことで「DAOの最前線」を体感していただくイベントです。"
