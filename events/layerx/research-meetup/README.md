@@ -87,12 +87,9 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-  -  "Ben Jones (Plasma Group)"
-  
+  -  "Ben Jones (Plasma Group)"  
   -  "Dominik Harz (Imperial College London)"
-
   -  "Sudo Osuke (LayerX, the creator of zero-chain)"
-
   -  "Everett Hildenbrandt (Runtime Verification)"
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
