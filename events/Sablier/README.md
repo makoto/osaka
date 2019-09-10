@@ -38,8 +38,8 @@ name: "Sablier Osaka Meetup"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "Come to the Sablier meetup in Osaka! We will demo our product and chat about continuous payments."  
   -  "What better way to enjoy your time in Osaka than earning some DAI just by attending a meetup?"  
+  -  "Come to the Sablier meetup in Osaka! We will demo our product and chat about continuous payments."  
   -  "Our founder Paul Berg will share our vision to bring continuous salaries to life on Ethereum. Later on, we will all chill with drinks and pizza."  
 
 # The date should be in the format year-month-day (ISO 8601).
