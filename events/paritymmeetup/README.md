@@ -67,7 +67,7 @@ venue: Kansai University Umeda Campus KANDAI Me RISE
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: 1-5 Tsurunochō, 8th floor, Osaka, Osaka 
+address:  1-5 Tsurunocho, 8th floor, Kita Ward, Osaka, Osaka 
 
 # The category of the event. Valid options:
 # - conference
