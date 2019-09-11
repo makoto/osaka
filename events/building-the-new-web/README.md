@@ -58,7 +58,7 @@ time: '14:00'
 endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/parity-substrate-workshop-osaka-tickets-72246931517?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
+tickets: https://www.eventbrite.com/e/parity-substrate-workshop-osaka-tickets-72246931517
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
