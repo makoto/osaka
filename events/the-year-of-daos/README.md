@@ -17,13 +17,12 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: "The year of DAOs"
+title: "The Year of DAO: Moloch Rises"
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: "Now that all the major DAO frameworks (Aragon, Moloch, DaoStack, and Colony.io) are on mainnet, we want to celebrate the success of the many DAOs"
-
+description: "This event is to showcase DAO efforts, grow the community and collaborate on ongoing problems."
 
 
 #####################
@@ -31,7 +30,7 @@ description: "Now that all the major DAO frameworks (Aragon, Moloch, DaoStack, a
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: "The year of DAOs"
+name: "The Year of DAO: Moloch Rises"
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -39,23 +38,20 @@ name: "The year of DAOs"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "Now that all the major DAO frameworks (Aragon, Moloch, DaoStack, and Colony.io) are on mainnet, we want to celebrate the success of the many DAOs by having an evening session inviting they key members of each DAO and talk about their projects as well as how we can collaborate to strengthen the DAO communities. "
+  -  "2019 is the year of DAOs and we’re excited about the progress the Ethereum community has made since yee ole DAO hack. "
+
+  - "Moloch in particular has seen significant traction since inception in February, with 70+ members, more than $1.5M in tribute to fund Ethereum dev and over $120K in grants have been distributed."
+
+  - "There are also 5 Moloch forks: MetaCartelDAO for dapps/UX, YangDAO for Andrew Yang memes, OrochiDAO for Ethereum events, TrojanDAO an artist collective and… JamesDAO for all the Jameses!"
+
+  - "To celebrate DAO progress, Moloch is hosting an event in collaboration with OrochiDAO: Year of the DAOs: Moloch Rises. The objective of the event is to showcase DAO efforts, grow the community and collaborate on ongoing problem"
   -  
-    'Speakers come from:'
+    'Agenda (See Kickback registration page for more detail)'
   - list:  
-    - MolochDAO
-    - MetaCartelDAO
-    - And more to come
-
-  - "Max 100 ppl"
-
-  - "The registration page to be announced soon."
-  - "This event is currently under planning by Osaka Blockchain Week. [Join our telegram channel](https://t.me/joinchat/IzDHHxeJvuuFH78uXTf4HA) to find out more"
-  - "[日本語案内]"
-  - "DAO（Decentralised Autonomous Organisation, 自律分散型組織）は特定の管理者や主体を持たない分散型の組織で、組織内の階層構造もなく、構成員一人一人によって自律的に運営されているのが特徴です。イーサリアムコミュティ内では2016年に集団投資スキームをDAOで管理するTheDAOが150億円相当を集めたあと、ハッキングにあった事件が有名です。TheDAOの悲劇から3年経った今、イーサリアムコミュニティは過去の教訓を元によりセキュアなシステムを作り上げてきました。イーサリアムスマートコントラクト開発者が簡単にDAOシステムを導入するための様々なツールを開発するAragonとDAOstack。イーサリアム開発の助成金を募るために作られ1.5億ドル以上を各界の有力者たちから調達することに成功したMolochDAO。シェアリングエコノミーを実現することを目的に作られたColony などはすでに実用可能な段階になっています。"
-  - "今回のイベントではそれらのフレームワーク開発企業をスピーカーとして招待するとともに、実際にこれらのDAOを使っている人達の生の声を聞くことで「DAOの最前線」を体感していただくイベントです。"
-  - "セッションは全て英語になります"
-
+    - "1:00 - 2:00 PM: Hangout / Meetup Registration"
+    - "2:00 - 3:20 PM: Panels, talks, and demos"
+    - "3:20 - 4:40 PM: Lightning Talks"
+    - "4:50 - 6:00 PM: Workshop/break-out"
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -67,7 +63,7 @@ endDate: 2019-10-06
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '14:00'
+time: '13:00'
 # Time when the event ends. Can be left empty.
 endTime: '18:00'
 
@@ -79,7 +75,7 @@ tickets:
 price: 'Free'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue:
+venue: In Osaka (To be announced)
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
@@ -92,7 +88,7 @@ address:
 # - workshop
 # - party
 # Use _only_ one, and don't capitalize.
-category: event
+category: conference
 
 
 #################
