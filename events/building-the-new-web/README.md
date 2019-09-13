@@ -38,7 +38,7 @@ name: "Building The New Web - Osaka edition"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "Proudly co-sponsored by [Fortmatic](https://fortmatic.com): Build Web3 dapps without extensions or downloads. An alternative to Metamask."  
+  -  "Proudly co-sponsored by Fortmatic (https://fortmatic.com) and Monday Capital (https://www.monday.capital)"  
   -
     "Building the new web. Osaka edition."
   -
@@ -58,7 +58,7 @@ endDate: 2019-10-06
 # Example: '18:00'
 time: '12:00'
 # Time when the event ends. Can be left empty.
-endTime: '17:30'
+endTime: '20:00'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://btnwosaka.eventbrite.nl
@@ -68,11 +68,13 @@ tickets: https://btnwosaka.eventbrite.nl
 price: ''
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBA
+venue: Fabbit (Osaka Honmachi)
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: 
+address: 1-4-1 nishihonmachi Nishi-ku
+4Forix honmachi building
+Osaka, Osaka 550-0005
 
 # The category of the event. Valid options:
 # - conference
@@ -92,7 +94,7 @@ category: conference
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
-speakers:
+speakers: Waves BIFROST CasperLabs Offchain Labs Oasis Labs Coda Protocol 
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
