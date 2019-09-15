@@ -39,11 +39,11 @@ name: "Osaka Ethereum Lightning Talks"
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -  "Ethereum lightning talks is a Pre-Devcon5 event organized by [ETHPLANET](https://www.ethplanet.org) , a non-profit Ethereum community organization mainly focusing on Ethereum community building and development."  
-  -  "The event aims at providing a platform for more experts in Ethereum to share their ideas on:
-  * Ethereum development
-  * Use cases based on Ethereum technology
-  * Cooperation and integration among various Ethereum communities
-  * And more."
+  -  "The event aims at providing a platform for more experts in Ethereum to share their ideas on:"
+  -  "• Ethereum development"
+  -  "• Use cases based on Ethereum technology"
+  -  "• Cooperation and integration among various Ethereum communities"
+  -  "• And more."
   -  "The Ethereum lightning talks is supported by Ethereum Foundation and many Ethereum communities worldwide, and it will be open to the public with a capacity for 1000 attendees. We sincerely welcome and invite friends from Ethereum communities to participate in this event. Anyone who has interests can register to attend, speak and sponsor. We will review the registered topics to make sure that we are creating a top-quality event and to make it as inclusive and fair as possible."
 
 # The date should be in the format year-month-day (ISO 8601).
