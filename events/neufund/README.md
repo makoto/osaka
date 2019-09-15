@@ -17,7 +17,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: "reimpact drinks by Neufund"
+title: "Osaka Ethereum Lightning Talks"
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -30,7 +30,7 @@ description:
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: "reimpact drinks by Neufund"
+name: "Osaka Ethereum Lightning Talks"
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -38,9 +38,13 @@ name: "reimpact drinks by Neufund"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "No keynotes, no panels, no workshops. Just casual drinks!"  
-  -  "Let's talk about decentralisation, catch up after intense year of development, celebrate successes and prepare for the Devcon 2019."
-  -  "Entrance is free & first drink's on us for the first 80 people!"
+  -  "Ethereum lightning talks is a Pre-Devcon5 event organized by [ETHPLANET](https://www.ethplanet.org) , a non-profit Ethereum community organization mainly focusing on Ethereum community building and development."  
+  -  "The event aims at providing a platform for more experts in Ethereum to share their ideas on:
+  * Ethereum development
+  * Use cases based on Ethereum technology
+  * Cooperation and integration among various Ethereum communities
+  * And more."
+  -  "The Ethereum lightning talks is supported by Ethereum Foundation and many Ethereum communities worldwide, and it will be open to the public with a capacity for 1000 attendees. We sincerely welcome and invite friends from Ethereum communities to participate in this event. Anyone who has interests can register to attend, speak and sponsor. We will review the registered topics to make sure that we are creating a top-quality event and to make it as inclusive and fair as possible."
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -52,12 +56,12 @@ endDate: 2019-10-07
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '19:00'
+time: '10:00'
 # Time when the event ends. Can be left empty.
-endTime: '23:00'
+endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/reimpact-drinks-by-neufund-tickets-68984330991
+tickets: https://www.ethplanet.org/osaka-ethereum-lightning-talks/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
@@ -68,7 +72,7 @@ venue: TBA (in Osaka)
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: The Exact location will be shared with attendees closer to the event
+address: 
 
 # The category of the event. Valid options:
 # - conference
@@ -77,7 +81,7 @@ address: The Exact location will be shared with attendees closer to the event
 # - workshop
 # - party
 # Use _only_ one, and don't capitalize.
-category: party
+category: conference
 
 
 #################
