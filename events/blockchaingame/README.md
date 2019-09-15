@@ -71,7 +71,7 @@ venue: The Deck
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: 2 Chome-1−１ Minamihonmachi, Honmachi Southern Building 1st Floor, OsakaChuo Ward
+address: 〒541-0054 Osaka, Chūō-ku, Minamihonmachi, 2-chōme−1−1 本町サザンビル １F
 
 # The category of the event. Valid options:
 # - conference
