@@ -17,7 +17,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: "The Year of DAO: Moloch Rises"
+title: "The Year of DAOs: Moloch Rises"
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -30,7 +30,7 @@ description: "This event is to showcase DAO efforts, grow the community and coll
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: "The Year of DAO: Moloch Rises"
+name: "The Year of DAOs: Moloch Rises"
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -51,7 +51,7 @@ synopsis:
     - "1:00 - 2:00 PM: Hangout / Meetup Registration"
     - "2:00 - 3:20 PM: Panels, talks, and demos"
     - "3:20 - 4:40 PM: Lightning Talks"
-    - "4:50 - 6:00 PM: Workshop/break-out"
+    - "4:40 - 6:00 PM: Workshop/break-out"
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28

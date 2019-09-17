@@ -13,14 +13,14 @@ title: Orochi DAO
 </p>
 
 
-There will be many side events during DevCon5 and many companies will be sponsoring various side events to reach out to the participants. However, sponsoring the individual event will have limited marketing impact. Kickback, the organiser of “[The year of DAOs](/events/the-year-of-daos/)” event would like to propose “Orochi DAO”, a special purpose DAO to coordinate sponsorship allocation collaboratively.
+There will be many side events during DevCon5 and many companies will be sponsoring various side events to reach out to the participants. However, sponsoring the individual event will have limited marketing impact. Kickback, the organiser of “[The year of DAOs: Moloch Rises](/events/the-year-of-daos/)” event would like to propose “Orochi DAO”, a special purpose DAO to coordinate sponsorship allocation collaboratively.
 
 Orochi DAO is a DAO which manages event sponsorship. It is a fork of [Moloch DAO](https://molochdao.com) which was created to fund ETH 2.0 projects and famously collected over ETH 7000 from well known Ethereum community members.
  The sponsoring companies (= Donors in Moloch term) and the event organisers (= Grantees in Moloch term) all join the DAO based on the proposal from the existing members (= Guild members in Moloch term) . The DAO members will collaboratively decide which events to sponsor and for how much.
 
 By using “Rage quit” feature of Moloch DAO, the sponsoring companies can withdraw their sponsorship if they do not agree with the voting results. With this simple game theory, we are experimenting to see if each event organiser and sponsor can work collaboratively to have maximum PR impact as a whole. 
 
-## What is “The Year of DAOs”?
+## What is “The Year of DAOs: Moloch Rises”?
 
 We are aiming to invite speakers from well-known DAO frameworks and the actual users of these frameworks to share their practical use-cases of DAOs.
 
