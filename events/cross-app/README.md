@@ -37,7 +37,8 @@ name: "Cross-app communication (Ethereum Serenity, NEAR, Polkadot, Cosmos)"
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
-synopsis:
+synopsis: 
+  - "Cross-app communication (how modern layer 1 protocols will work with each other)"
   -  "In the world of chain interoperability and sharded solutions, interaction of applications must be redesigned compared to single chain ecosystem. In this panel each project can discuss tradeoffs and benefits of app chain interaction that they are aiming for."  
  
 # The date should be in the format year-month-day (ISO 8601).
