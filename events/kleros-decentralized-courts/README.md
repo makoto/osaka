@@ -65,7 +65,7 @@ venue: SingularityHive Osaka
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: Singularity Hive 03, 3 Chome-11-18 Minamisenba, Chuo Ward Osaka, Osaka 542-0081
+address: SingularityHive 03, 3 Chome-11-18 Minamisenba, Chuo Ward Osaka, Osaka 542-0081
 
 # The category of the event. Valid options:
 # - conference
