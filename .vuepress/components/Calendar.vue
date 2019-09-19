@@ -61,7 +61,7 @@ export default {
     firstMonth: 9,
     daysInFirstMonth: 30,
     // Hours without the leading zero nor trailing minutes
-    firstHour: 8,
+    firstHour: 7,
     lastHour: 23,
     dayNames: [
       'Wednesday',
