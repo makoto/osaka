@@ -56,11 +56,11 @@ time: '18:00'
 endTime: '20:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.fr/e/billets-kleros-x-realitio-trivia-quiz-73100998053
+tickets: https://kickback.events/event/0x837e35f3233e6539c9376809e895761d755276f0
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
-price: 'Registration at Kickback'
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: PC and Retro Bar Space Station

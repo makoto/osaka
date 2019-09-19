@@ -55,11 +55,11 @@ time: '18:00'
 endTime: '20:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://forms.gle/jMfFpobaC32pvAVx6
+tickets: https://kickback.events/event/0x2cbdfb038afb5ed69c65af987c80d5ec6e3ea4f9
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
-price: 'Free'
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Iori/Unshudo

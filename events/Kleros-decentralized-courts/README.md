@@ -54,11 +54,11 @@ time: '7:30'
 endTime: '9:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.fr/e/billets-kleros-decentralized-courts-justice-for-the-digital-age-73258856211
+tickets: https://kickback.events/event/0x301bd8451d5b2046e612e829f8f951915bf14a96
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
-price: "Registration at Kickback"
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: SingularityHive Osaka
