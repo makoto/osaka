@@ -17,7 +17,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: "#DeFi Assemble Osaka | 0x, ImToken, and Hummingbot"
+title: "#DeFi Assemble Osaka | 0x, imToken, and Hummingbot"
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -30,7 +30,7 @@ description:
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: "#DeFi Assemble Osaka | 0x, ImToken, and Hummingbot"
+name: "#DeFi Assemble Osaka | 0x, imToken, and Hummingbot"
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -38,7 +38,7 @@ name: "#DeFi Assemble Osaka | 0x, ImToken, and Hummingbot"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "0x, Hummingbot, and ImToken invite you to join this super team of DeFi projects for an evening of engaging discussion and networking."  
+  -  "0x, Hummingbot, and imToken invite you to join this super team of DeFi projects for an evening of engaging discussion and networking."  
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
