@@ -68,11 +68,11 @@ tickets: https://www.ethplanet.org/osaka-ethereum-lightning-talks/
 price: 'Free'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBA (in Osaka)
+venue: International House, Osaka
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: 
+address: 2-6 Uehonmachi 8-chome, Tennoji-ku,Osaka 543-0001, Japan
 
 # The category of the event. Valid options:
 # - conference
