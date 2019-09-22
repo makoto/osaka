@@ -64,11 +64,11 @@ tickets: https://www.eventbrite.com/e/dexs-on-ethereum-a-night-hosted-by-kyber-u
 price: 'Free'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: 1 Chome-7-50 Nankokita, Suminoe Ward, Osaka, Japan 559-0034
+venue: FUKURACIA
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: 
+address: 1 Chome-7-50 Nankokita, Suminoe Ward, Osaka, Japan 559-0034
 
 # The category of the event. Valid options:
 # - conference
