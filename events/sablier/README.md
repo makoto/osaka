@@ -64,11 +64,11 @@ tickets: https://www.eventbrite.com/e/sablier-osaka-meetup-tickets-71250194249
 price: 'Free'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBA (in Osaka)
+venue: Visions LOUNGE UMEDA
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: 
+address: Hankyu terminal Bld.7F, 1-1-4, Shibata, Osaka Shi Kita Ku, Osaka Fu, 530-0012, Japan
 
 # The category of the event. Valid options:
 # - conference
