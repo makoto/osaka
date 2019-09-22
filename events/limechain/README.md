@@ -76,7 +76,7 @@ venue: Visions LOUNGE UMEDA
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: 大阪府大阪市北区, Osaka 530-0012  Japan
+address: Kita-ku Osaka-shi, Osaka 530-0012
 
 # The category of the event. Valid options:
 # - conference
