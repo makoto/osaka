@@ -39,7 +39,7 @@ name: "Cryptowars Tournament @Devcon5 (Prize: 500 DAI) by Experimental and Maker
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -  "Experimental and MakerDAO invite you to the second Crypto LAN Party!"  
-  -  "¿Have you ever heard of "blockchain eSports"? ¿eSports with cryptocurrencies? ¡CryptoWars is the first fully decentralized strategy game in the world"  
+  -  "¿Have you ever heard of 'blockchain eSports'? ¿eSports with cryptocurrencies? ¡CryptoWars is the first fully decentralized strategy game in the world"  
   -  "¡100 people will be playing a 45 minutes long tournament and the top five players will share a 500 USD price! The prize will be paid in Dai, MakerDAO’s stablecoin."  
   -  "Bring your own device! Tablet, smartphone or laptop. Without one, you won’t be able to play!"  
 
