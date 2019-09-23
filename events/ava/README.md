@@ -67,7 +67,7 @@ venue: ROUGH LABO
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: #206, 19-23 Edobori, Nishi-ku, Osaka 550-0002
+address: 206, 19-23 Edobori, Nishi-ku, Osaka 550-0002
 
 # The category of the event. Valid options:
 # - conference
