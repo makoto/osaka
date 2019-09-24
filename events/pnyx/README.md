@@ -30,7 +30,7 @@ description:
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: "What the Fudge is DeFi? - Pnyx Osaka Edition"
+name: "DeFi.WTF"
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -38,10 +38,10 @@ name: "What the Fudge is DeFi? - Pnyx Osaka Edition"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "Pnyx - a hill in central Athens, the capital of Greece. Beginning as early as 507 BC, the Athenians gathered on the Pnyx to host their popular assemblies, thus making the hill one of the earliest and most important sites in the creation of democracy."
-  -  "Pnyx Osaka Edition - DeFi.WTF"
-  -  "A community-driven discussion by contituents of the distributed society who believe in the art of asking the right questions."
-  -  "Event will be streamed real time. Content transcript will be published upon permission, in English, Japanese and Chinese."
+  -  "About WTF: the Power of Asking"
+  -  "A modern resurrection of the Greek Pnyx (/nɪks/): a supportive space for open, inclusive, informed, and thoughtful exchanges of ideas, for the practice of the ancient art of asking the right questions to move beyond hype and arrive at knowledge."
+  -  "DeFi.WTF pierces through the surface of decentralized finance"
+  -  "The first of a series of WTF events, traces the emergent DeFi stack and explores its implications through in-depth conversations with the space’s main actors."
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -55,21 +55,21 @@ endDate: 2019-10-07
 # Example: '18:00'
 time: '10:00'
 # Time when the event ends. Can be left empty.
-endTime: '17:30'
+endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/what-the-fudge-is-defi-pnyx-osaka-edition-tickets-72483123975
+tickets: https://www.defi.wtf/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
 price: 'Free'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: TBA (in Osaka)
+venue: "International House, Osaka (the same venue as the Ethereum Lightning Talks organized by ETHPLANET)"
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: 
+address: 8-chōme-2-6 Uehonmachi, Tennōji-ku, Osaka, 543-0001, Japan
 
 # The category of the event. Valid options:
 # - conference
