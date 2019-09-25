@@ -38,11 +38,11 @@ name: "Cosmos 7 months later: what have we learned and what needs to change"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "COSMOS SIDE-EVENT IN OSAKA Main Panel: 'Cosmos 7 months later: what have we learned and what needs to change'"  
+  -  "COSMOS EVENT IN OSAKA Main Panel: 'Cosmos 7 months later: what have we learned and what needs to change'"  
   -  "Dear Cosmonauts & friends," 
-  -  "We are pleased to invite you to participate to the event organized by the Cosmos Guardian in collaboration with the InterChain Foundation."
-  -  "During this event you will assist to six individual presentations from"
-  -  "FORBOLE - NODE A-TEAM - KIRA EXCHANGE - EVERETT PROTOCOL - STAKE.FISH - IRIS.NET"
+  -  "We are pleased to invite you to participate to the event organized by the Cosmos Guardian in Osaka."
+  -  "During this event you will assist to seven individual presentations from"
+  -  "FORBOLE - NODE A-TEAM - KIRA EXCHANGE - IOV - EVERETT PROTOCOL - STAKE.FISH - IRIS.NET"
   -  "where they will present their work or project related to Cosmos."
   -  "After the initial talks have concluded you will also assist to the main conversation titled"
 
@@ -61,7 +61,7 @@ time: '17:00'
 endTime: '19:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/cosmos-7-months-later-what-have-we-learned-and-what-needs-to-change-tickets-73823521139
+tickets: https://thecosmosguardian_cosmosevent_osaka.eventbrite.com
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
