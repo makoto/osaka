@@ -56,7 +56,7 @@ time: '21:30'
 endTime: '02:00'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/orchids-follow-the-white-rabbit-devcon5-party-matrix-theme-tickets-73798416049?aff=
+tickets:  https://www.eventbrite.com/e/orchids-follow-the-white-rabbit-devcon5-party-matrix-theme-tickets-73798416049
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
