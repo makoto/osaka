@@ -39,7 +39,7 @@ name: "The Web3 Layer Cake with Pantera Capital, Alchemy, Ampleforth, Audius, Ce
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -  "Explore the layers of Web3 with a slice of locally-made layer cake and technical talks from leading companies, projects, and Pantera Capital"  
-  - "There are two event pages: [English](https://www.eventbrite.com/e/the-web3-layer-cake-audius-enigma-celer-livepeer-alchemy-pantera-tickets-74022379931) & [Japanese](https://yahoo-osaka.connpass.com/event/147966/)"
+  - "There is an event page for Japanese too [Japanese](https://yahoo-osaka.connpass.com/event/147966/). English website is found in the botton button link."
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
