@@ -38,15 +38,11 @@ name: "The Official Ethereum Jesus Osaka Pub Crawl & Karaoke: The Resurrection"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
- - "Join ShapeShift, AAVE, Kyber, and MakerDAO for an evening with crypto innovators." 
- - "Ready for an unforgettable night in Osaka? Join us for a panel with the crypto innovators who are exploring mass DeFi adoption. Panel includes:" 
- - "Jon, COO & Co-Founder of ShapeShift" 
- - "Stani Kulechov, CEO of AAVE" 
- - "Loi Luu, CEO & Co-Founder of Kyber Network" 
- - "Mariano Conti, Head of Oracles at MarkerDAO" 
- - "Moderated by Camila Russo, Financial Journalist & Crypto Influencer"
- - "Doors open at 18:00 for networking with complimentary appetizers and cocktails. Panel will begin at 18:30, with Q&A to follow. We'll wrap up with (even more) free drinks and snacks."
- - "Mingle with the movers and shakers in the crypto space. Network with ShapeShift, AAVE, Kyber, and MakerDAO teams, the local crypto community, and fellow Devcon attendees. This will be a night full of inspired conversation, thought-provoking ideas, and did we say free drinks?"
+ - "The pub crawl route will be announced in the Ethereum Jesus Telegram (link below), stayed tuned!" 
+ - "Come join Ethereum Jesus in Osaka, Japan for his yearly pub crawl gathering at DevConV with fellow Ethereum disciples as we take over the city in droves for Japan Blockchain Week! Follow my Twitter or Telegram Group for updates on the pub crawl route and karaoke spot as well as any additional changes. This will be a fun way to get to know this beautiful city as we drink our way through Osaka. Come and make new friends on the first night of DevCon5 Osaka and have a night to remember. If you have any questions, or need to find us on our journey, please message your Co-Host Ethereum Jesus on Twitter or Telegram. This will be an informal and traditional style pub crawl." 
+ - "The theme of this event is "Failed Ethereum Killers & Shitcoins." Ethereum Jesus, The-All Seeing Eye, knows you have embarrassing Shitcoin T-shirts and swag (I'm looking at you TRONIX, EOS, and NEO) tucked away in your closet from the many Crypto conferences you've been to over the past three years. This is your chance to finally wear them out and repent your sins with Ethereum Jesus in preparation for Serenity. Make sure you pack your swag in your suitcase before your flight! Let's get a good laugh out of all of them and have Ethereum Jesus turn your water into rice wine (sake). *If you wear an Ethereum T-Shirt you're buying me a shot.*" 
+  - "See you all there!" 
+  - "-Ethereum Jesus" 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
