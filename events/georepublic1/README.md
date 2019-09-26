@@ -38,7 +38,7 @@ name: "Distributed Web Hackternoon!"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "To this years [blockchain week](http://osaka.kickback.events/) we are inviting you to join us at the [Georepublic Okamoto Office](https://www.openstreetmap.org/node/6389783433) for an afternoon at the physical (near Kobe) and philosophical edge."  
+  -  "To this years blockchain week we are inviting you to join us at the [Georepublic Okamoto Office](https://www.openstreetmap.org/node/6389783433) for an afternoon at the physical (near Kobe) and philosophical edge."  
   -  "We will make this afternoon all about the open, distributed web. Join us to explore how the future of an open web based on distributed p2p technology could look like and what impact it may have."  
 
 # The date should be in the format year-month-day (ISO 8601).
