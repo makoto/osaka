@@ -38,7 +38,11 @@ name: "Layer 2 Meetup: Osaka edition"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "Join us at Layer 2 Meetup for fruitful networking, chilled atmosphere & sushi on October 10, 2019 during the DevCon in Osaka, Japan"  
+  -  "Join us at Layer 2 Meetup for fruitful networking, chilled atmosphere & sushi on October 10, 2019 during the DevCon in Osaka, Japan!"  
+  -  "We will be happy to meet you again at Layer 2 Meetup during the major annual event – DevCon 2019 in Osaka, Japan."  
+  -  "The first two Layer 2 meetups took place in New York during the Consensus Blockchain Week in May 2019 and in Berlin during the Blockchain Week in August 2019."  
+  -  "Technology leaders of Layer 2 solutions will get together to discuss shared pains and gains in the development of second layer solutions. Anything goes at the meet, from scalability to interoperability and more!"  
+  -  "Please, view all details AND get your FREE ticket by following the “Website” link below."  
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
