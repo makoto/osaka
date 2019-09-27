@@ -39,15 +39,18 @@ name: "Dream DAO Party - DAICO Edition"
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -  "Hosted by Aragon community"
-
+  -  "The Aragon community invites you to join us in Osaka on October 11th for an evening of entertainment and imagination."
+  -  "Do you dream about using Decentralized Autonomous Organizations to improve your community? We are offering a chance to help make your dreams come true!"
+  -  "After socializing over food and drinks, we will be hosting a Dream DAO pitch contest - DAICO Edition. Attendees will be able to sign up to give a five minute pitch of their Dream DAICO** for a chance to win a grand prize of 500 ANT and 500 DAI, with a runner up prize of 250 ANT and 250 DAI."
+  -  "Pitches will be judged by a panel of Aragon community members based on the potential positive impact of the DAICO and the realistic likelihood that the DAICO will succeed when it is launched. Bonus points will be given for creativity and ambition!"
+  -  "After the pitch contest, we will continue partying into the night, chilling and dancing to beats mixed by talented DJs from the Aragon community."
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
 date: 2019-10-11
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
-endDate:
+endDate: 2019-10-11
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
@@ -57,18 +60,18 @@ time: '19:00'
 endTime: '21:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: 
+tickets: https://kickback.events/event/0x6941bd02a7662f1c2d7bb2daf578328e385dda66
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
-price: 'Free'
+price: 'RSVP at Kickback'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue:
+venue: Moxy 
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address:  TBD
+address: Osaka Honmachi, 2-2-9 Kawaramachi, Chuo-ku, Osaka
 
 # The category of the event. Valid options:
 # - conference
