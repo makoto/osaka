@@ -78,7 +78,7 @@ address: 2 Chome-1-1, Honmachi Southern Building 1F, Osaka, 670-0012
 # - workshop
 # - party
 # Use _only_ one, and don't capitalize.
-category: party
+category: event
 
 
 #################
