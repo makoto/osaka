@@ -55,9 +55,9 @@ endDate: 2019-10-11
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '19:00'
+time: '18:30'
 # Time when the event ends. Can be left empty.
-endTime: '21:00'
+endTime: '23:55'
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://kickback.events/event/0x6941bd02a7662f1c2d7bb2daf578328e385dda66
