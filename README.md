@@ -10,7 +10,7 @@ description: Blockchain Week initiatives are happening all over the world whenev
              and which will provide an overview and support for all the blockchain 
              technology related events happening in Osaka.
 
-tagline: Around DevCon5 (8th - 11th October 2019)
+tagline: Around DevCon5 (6th - 12th October 2019)
 
 features:
 - title: The DECK
