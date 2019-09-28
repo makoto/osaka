@@ -11,7 +11,6 @@
 # and can be safely removed, including these instructions.
 ###############
 
-
 ###########
 ### SEO ###
 ###########
@@ -22,10 +21,7 @@ title: "The Power of PoS"
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Proof of stake (PoS) is attracting a lot of attention these days, with Ethereum switching over from proof of work (PoW). PoS is an alternative process for transaction verification on a blockchain. Recently, it is increasing in popularity and being adopted by many cryptocurrencies, for several key reasons. PoS systems do not need to consume large amounts of energy as PoW, while still securing the network. Also, by staking one's coins, one can earn passive income from holding crypto, far more than other traditional savings methods. Many new companies are being created to help users receive income from staking or delegating coins.
-
-Come listen to representatives from several PoS coins talk about the present and future of PoS!
-
+description: 
 
 #####################
 ### EVENT DETAILS ###
@@ -39,7 +35,9 @@ name: "The power of PoS"
 # Indentation is crucial:
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
-synopsis:
+synopsis:- "Proof of stake (PoS) is attracting a lot of attention these days, with Ethereum switching over from proof of work (PoW). PoS is an alternative process for transaction verification on a blockchain. Recently, it is increasing in popularity and being adopted by many cryptocurrencies, for several key reasons. PoS systems do not need to consume large amounts of energy as PoW, while still securing the network. Also, by staking one's coins, one can earn passive income from holding crypto, far more than other traditional savings methods. Many new companies are being created to help users receive income from staking or delegating coins." 
+ - "Come listen to representatives from several PoS coins talk about the present and future of PoS!" 
+
  
 
 # The date should be in the format year-month-day (ISO 8601).
@@ -57,7 +55,7 @@ time: '19:15'
 endTime: '21:30'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/layer2-and-business-with-protocol-researchers-and-devs--tickets-74235734079
+tickets: https://singularityhive.connpass.com/event/147088/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
@@ -95,3 +93,5 @@ speakers:
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
 
 <Event-Content/>
+
+
