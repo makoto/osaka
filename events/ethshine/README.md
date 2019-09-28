@@ -79,7 +79,7 @@ address: 〒542-0083 Osaka, Chūō-ku, Higashishinsaibashi, 1-chōme−18−27, 
 # - workshop
 # - party
 # Use _only_ one, and don't capitalize.
-category: event
+category: party
 
 
 #################
