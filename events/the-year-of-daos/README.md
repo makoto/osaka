@@ -68,7 +68,7 @@ time: '13:00'
 endTime: '18:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: 
+tickets: https://kickback.events/event/0xb7bbb5f9ada8568e6968fc3f70817d78bb7d1260
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
