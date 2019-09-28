@@ -57,7 +57,7 @@ time: '19:15'
 endTime: '21:30'
 
 # The URL where to acquire the tickets. Can be left empty.
-tickets: https://www.eventbrite.com/e/layer2-and-business-with-protocol-researchers-and-devs--tickets-74235734079
+tickets: https://singularityhive.connpass.com/event/147088/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
@@ -95,3 +95,5 @@ speakers:
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
 
 <Event-Content/>
+
+
