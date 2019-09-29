@@ -68,7 +68,7 @@ venue: ATC
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: Osaka
+address: Osaka, Osaka 559-0034
 
 # The category of the event. Valid options:
 # - conference
