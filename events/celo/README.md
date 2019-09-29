@@ -52,9 +52,9 @@ endDate: 2019-10-09
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '07:30'
+time: '7:30'
 # Time when the event ends. Can be left empty.
-endTime: 09:00'
+endTime: '9:00'
 
 # The URL where to acquire the tickets. Can be left empty.
 tickets: https://www.eventbrite.com/e/celo-run-club-x-osaka-blockchain-week-wednesday-tickets-74287304327
