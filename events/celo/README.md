@@ -52,9 +52,9 @@ endDate: 2019-10-09
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '19:30'
+time: '07:30'
 # Time when the event ends. Can be left empty.
-endTime: '21:00'
+endTime: 09:00'
 
 # The URL where to acquire the tickets. Can be left empty.
 tickets: https://www.eventbrite.com/e/celo-run-club-x-osaka-blockchain-week-wednesday-tickets-74287304327
@@ -64,11 +64,11 @@ tickets: https://www.eventbrite.com/e/celo-run-club-x-osaka-blockchain-week-wedn
 price: 'Free'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: billage OSAKA (ビレッジ オオサカ)
+venue: Nanko BTB Nanko Central Park
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: Chuo, Honmachi 4-2-12,Osaka, Osaka 541-0053
+address: 8 Chome-5-132 Nankohigashi, Suminoe Ward, Osaka, Osaka 559-0031
 
 # The category of the event. Valid options:
 # - conference
