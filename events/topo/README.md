@@ -41,7 +41,7 @@ synopsis:
  - "Come celebrate the beta launch of Topo Finance – a DeFi aggregator offering optimized interest rates across Compound, dYdX, and Fulcrum." 
  - "The Topo Launch Party will be held at B.B.'s Bar at the Hyatt Regency Osaka – the bar is located on floor B1."
  - "Drinks and light snacks will be served as the Topo team launches and demos the public beta of their first product: optimized interest rates."
- - "Topo Finance allows borrowers and lenders to always achieve the most advantageous interest rate through our non-custodial smart contract pool. For more info, visit our intro article [here.](https://medium.com/topo-finance/introducing-topo-finance-a-defi-services-platform-8b76c0aef0f6)"
+ - "[Topo](https://topo.finance/) Finance allows borrowers and lenders to always achieve the most advantageous interest rate through our non-custodial smart contract pool. For more info, visit our intro article [here.](https://medium.com/topo-finance/introducing-topo-finance-a-defi-services-platform-8b76c0aef0f6)"
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
