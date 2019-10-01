@@ -72,7 +72,7 @@ venue: TBA
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: 1 Chome-7-50 Nankokita, Suminoe Ward, Osaka, Japan 559-0034
+address:
 
 # The category of the event. Valid options:
 # - conference
@@ -99,4 +99,4 @@ speakers:
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
 
 <Event-Content/>
-z
+
