@@ -39,7 +39,7 @@ name: "Navigating the crypto industry"
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -  "Cutting through the noise is a whole different challenge for the crypto sector in 2019."  
-  -  "Join "[YAP Global](https://yapglobal.com/)" and "[MEW (MyEtherWallet)](https://www.myetherwallet.com/)" at DevCon 5 over networking and drinks as we look at navigating this ever evolving industry."  
+  -  "Join YAP Global and MEW (MyEtherWallet) at DevCon 5 over networking and drinks as we look at navigating this ever evolving industry."  
   
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
