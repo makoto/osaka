@@ -63,11 +63,11 @@ tickets: https://www.eventbrite.com/e/ava-labs-future-of-blockchain-tickets-7351
 price: 'Free'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: ROUGH LABO
+venue: PINEBROOKLYN-パインブルックリン-
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
-address: "#206, 19-23 Edobori, Nishi-ku, Osaka 550-0002"
+address: "1-2-35 Fukushima -ku Fukushima, Osaka-shi, Osaka 553-0003"
 
 # The category of the event. Valid options:
 # - conference
