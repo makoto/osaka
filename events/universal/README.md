@@ -64,7 +64,7 @@ tickets: https://www.eventbrite.com/e/universal-chain-registry-meetup-devcon-v-o
 price: 'Free'
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Georepublic Okamoto Office
+venue: ATC Hall 2 Chome-1-10 Nankokita, Suminoe Ward. Osaka
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: 5. května 1640/65, 140 21 Praha 4
