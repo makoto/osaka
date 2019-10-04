@@ -55,7 +55,7 @@ time: '17:00'
 endTime: '21:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: mgl.io/5ySU7
+tickets:https://myguestlist.com/mgl/showForm.php?id=sf5d958f8770ec5
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (€ symbol will be used).
